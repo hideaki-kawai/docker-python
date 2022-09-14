@@ -1,5 +1,7 @@
 # docker-python
 
+Pythonのバージョン：3.7
+
 ## コンテナ作成方法</br>
 ```git clone https://github.com/kino-code/docker-python.git (ディレクトリ名を記述)```</br>
 ```cd (ディレクトリ名を記述)```</br>
